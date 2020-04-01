@@ -7,6 +7,9 @@
 
 Links to challenges:
 
-<p>Challenge 1: <a href="https://github.com/Stonino82/Javascript-challenges/blob/master/challenge_1/index.html">age in
-        days</a></p>
-<a href="challenge_1/index.html">Prova</a>
+<p>Challenge 1: <a href="challenge_1/index.html">age in days</a></p>
+<p>Challenge 2: <a href="challenge_2/index.html">cat generator</a></p>
+<p>Challenge 3: <a href="challenge_3/index.html">rock/paper/scissors game</a></p>
+<p>Challenge 4: <a href="challenge_4/index.html">change buttons' colors</a></p>
+<p>Challenge 5: <a href="challenge_5/index.html">blackjack game</a></p>
+<p>JSON Exercise: <a href="JSON_Exercise/json_exercise.html">JSON Exercise</a></p>
