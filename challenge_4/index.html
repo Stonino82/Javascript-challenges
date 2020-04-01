@@ -1,0 +1,37 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <section>
+        <header>
+            <h2>Challenge 4</h2>
+            <h1>Change the colors of all the buttons</h1>
+        </header>
+        <div id="container" class="container">
+            <form action="">
+                <select name="backdrop" id="background" onchange="buttonColorChange(this)">
+                    <option value="default" selected>Select an option</option>
+                    <option value="red">Red</option>
+                    <option value="green">Green</option>
+                    <option value="blue">Blue</option>
+                    <option value="yellow">Yellow</option>
+                    <option value="random">Random</option>
+                    <option value="reset">Reset</option>
+                </select>
+            </form>
+            <button class="btn btn-red">Red</button>
+            <button class="btn btn-green">Green</button>
+            <button class="btn btn-blue">Blue</button>
+            <button class="btn btn-yellow">Yellow</button>
+        </div>
+    </section>
+</body>
+<script src="script.js"></script>
+
+</html>
