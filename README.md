@@ -6,4 +6,4 @@
 
 Links to challenges:
 
-<p>Challenge 1: <a href="https://github.com/Stonino82/Javascript-challenges/tree/master/challenge_1">age in days</a></p>
+<p>Challenge 1: <a href="https://github.com/Stonino82/Javascript-challenges/blob/master/challenge_1/index.html">age in days</a></p>
